@@ -1,7 +1,7 @@
 # sitepreview
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/zhaozhiyuan1989/sitepreview)
-![CI](https://github.com/seismo-learn/sitepreview/workflows/CI/badge.svg)
+![CI](https://github.com/zhaozhiyuan1989/sitepreview/workflows/CI/badge.svg)
 
 The `gh-pages` branch of this repository hosts the documentation from PRs
 of other repositories, so that we can preview the changes in PRs.
